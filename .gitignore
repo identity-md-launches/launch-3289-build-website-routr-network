@@ -1,0 +1,8 @@
+# Dependencies and caches (any depth)
+**/node_modules/
+**/.vite/
+**/.npm/
+**/.cache/
+*.tgz
+*.log
+# The production export in dist/ is committed on purpose: the publisher serves it as-is.
